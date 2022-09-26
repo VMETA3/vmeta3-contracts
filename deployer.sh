@@ -1,8 +1,8 @@
 #!/bin/bash
 set -euo
 
-CONTRACTS_TARGET_NETWORK="kovan"
-CONTRACTS_RPC_URL="https://kovan.infura.io/v3/a9f5e090acc64a0abe0fdd7a0651af11"
+CONTRACTS_TARGET_NETWORK="goerli"
+CONTRACTS_RPC_URL="https://goerli.infura.io/v3/ba6bcbde8f0f4816a670d024aa39a9fd"
 # CONTRACTS_RPC_URL="https://local-chain.vmeta3.com/rpc/"
 
 RETRIES=${RETRIES:-20}

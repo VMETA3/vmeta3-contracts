@@ -19,5 +19,5 @@ library Lib_PredeployAddresses {
         0x4200000000000000000000000000000000000012;
     address internal constant L1_BLOCK_NUMBER = 0x4200000000000000000000000000000000000013;
     address internal constant WETH = 0x4200000000000000000000000000000000000006;
-    address internal constant VMT = 0x7A73Be9ADDeF779F83d77A642B07c65f4a94f2b7;
+    address internal constant VMT = 0x7DcC8302D602613CdF8a82bD22d710266441fc23;
 }
