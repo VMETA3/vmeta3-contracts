@@ -1,8 +1,8 @@
 #!/bin/bash
 set -euo
 
-CONTRACTS_TARGET_NETWORK="kovan"
-CONTRACTS_RPC_URL="https://kovan.infura.io/v3/a9f5e090acc64a0abe0fdd7a0651af11"
+CONTRACTS_TARGET_NETWORK="bnb-test"
+CONTRACTS_RPC_URL="https://data-seed-prebsc-2-s2.binance.org:8545/"
 # CONTRACTS_RPC_URL="https://local-chain.vmeta3.com/rpc/"
 
 RETRIES=${RETRIES:-20}

@@ -24,7 +24,7 @@ export const predeploys = {
   // We're also putting WETH9 at the old OVM_ETH address.
   WETH9: '0x4200000000000000000000000000000000000006',
 
-  VMT: '0x7A73Be9ADDeF779F83d77A642B07c65f4a94f2b7',
+  VMT: '0xE7f767010Ea938122FCCD0E01eE32410D7A6ED60',
 }
 
 export const futurePredeploys = {

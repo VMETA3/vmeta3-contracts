@@ -131,8 +131,6 @@ if (
         live: true,
         saveDeployments: true,
         tags: [process.env.CONTRACTS_TARGET_NETWORK],
-        gas: 2100000,
-        gasPrice: 8000000000,
         gasMultiplier: 2,
     }
 }
